@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/navigation_drawer_bar_color"
+    android:orientation="vertical"
+    tools:context=".views.ui.home.HomeFragment">
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="20dp"
+        android:backgroundTint="@color/gradient_color_1_splash_view"
+        app:cardCornerRadius="20dp">
+
+        <com.github.mikephil.charting.charts.BarChart
+            android:id="@+id/bar_marque_by_machine_statistic_fragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </com.github.mikephil.charting.charts.BarChart>
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

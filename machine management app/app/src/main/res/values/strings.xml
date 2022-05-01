@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MachineManagement</string>
+    <string name="app_name_splash_view">Machine Management App</string>
+    <string name="main_text_welcome_activity">Welcome to \nThe Machine Management App</string>
+    <string name="main_text_card_welcome_activity">Manage Your Machines</string>
+    <string name="second_text_card_welcome_activity">Manage Now your Machines &amp; <with></with>Brand\n<with></with>all the operations you Need</string>
+    <string name="button_welcome_activity">Get started now</string>
+    <string name="button_login_activity">Login</string>
+    <string name="button_registration_activity">Registration</string>
+    <string name="text_registration_login_fragement">Don\'t Have An Account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="text_login_registration_fragement">Already Have an Account?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="text_add_machine_fragment">Ajouter Une Machine</string>
+    <string name="text_add_marque_fragment">Ajouter Une Marque</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+
+    <string name="menu_home">Statistics</string>
+    <string name="menu_gallery">Machines</string>
+    <string name="menu_slideshow">Marques</string>
+
+    <string name="menu_machine">Machines</string>
+    <string name="menu_marque">Marques</string>
+    <string name="menu_statistic">Statistics</string>
+
+
+</resources>

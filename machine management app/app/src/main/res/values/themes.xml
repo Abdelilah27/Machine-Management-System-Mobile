@@ -1,0 +1,82 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MachineManagement" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="app_name_splash_view">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">sans-serif-black</item>
+        <item name="android:textSize">30dp</item>
+    </style>
+
+    <style name="main_text_welcome_view">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">sans-serif-black</item>
+        <item name="android:textSize">25dp</item>
+    </style>
+
+    <style name="second_text_welcome_view">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+
+    <style name="third_text_welcome_view">
+        <item name="android:textColor">@color/secondary_color_welcome_fragment</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textSize">13dp</item>
+        <item name="android:layout_margin">5dp</item>
+    </style>
+
+    <style name="main_button_welcome_view">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">13dp</item>
+        <item name="android:layout_marginLeft">35dp</item>
+        <item name="android:layout_marginRight">35dp</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:layout_marginBottom">20dp</item>
+    </style>
+
+    <style name="main_button_login_view">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">13dp</item>
+        <item name="android:layout_marginLeft">35dp</item>
+        <item name="android:layout_marginRight">35dp</item>
+    </style>
+
+    <style name="welcome_view_secondary_title">
+        <item name="android:textSize">12dp</item>
+        <item name="android:textColor">@color/secondary_color_welcome_fragment</item>
+    </style>
+
+    <style name="welcome_view_secondary_title_login">
+        <item name="android:textSize">12dp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:layout_marginLeft">2dp</item>
+    </style>
+
+    <style name="Theme.MachineManagement.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.MachineManagement.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.MachineManagement.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="search_view" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:editTextColor">@color/white</item>
+    </style>
+
+</resources>

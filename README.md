@@ -2,4 +2,4 @@
 
 The mobile version of the Machine/Brand management system, developed using Android Java and Spring Boot.
 
-<img src="https://user-images.githubusercontent.com/71185753/166153941-6207cd1b-be91-4a34-acdc-5051c2563a2a.gif" width="350">
+<img src="https://user-images.githubusercontent.com/71185753/166341493-f08c8bca-3fc0-478f-b2a3-cbdf20266405.gif" width="350">

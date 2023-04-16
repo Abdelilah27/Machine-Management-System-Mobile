@@ -1,4 +1,3 @@
-# Machine-management-system-mobile-version
 # Machine Management System Mobile Version
 
 This is an Android app for managing machines in a factory or workshop. The app allows you to view, add, edit and delete machines, as well as assign and unassign brand to machines. The backend is built with Spring Boot and uses MySQL database.
